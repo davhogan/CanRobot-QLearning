@@ -16,4 +16,4 @@ The robot takes 200 actions in each attempt at traversing the grid.
 
 After a period of trials using random choices the robot switches to using the qtable to make the most ideal move based on its previous experiences. The results of these choices are still recorded in the qtable. 
 
-The final result of the actions attempted are recodered and displayed after each traversal through the grid. 
+The final result of the actions attempted are recodered and displayed after each traversal through the grid.  
